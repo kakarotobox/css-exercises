@@ -1,0 +1,18 @@
+.oddnumbers {
+  background-color: rgb(228, 101, 164);
+  font-family: verdana, sans-serif, Dejavu Sans;
+}
+
+#first-id {
+  font-size: 36px;
+  color: blue;
+}
+
+.oddnumbers.cooler, #second-id {
+  font-size: 24px;
+}
+
+#second-id {
+  background-color: rgb(82, 214, 111);
+  font-weight: 700;
+}
